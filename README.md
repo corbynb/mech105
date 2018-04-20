@@ -1,2 +1,2 @@
-#Mech 105 repository
+Mech 105 repository
 This repository 
